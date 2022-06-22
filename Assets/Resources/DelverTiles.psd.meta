@@ -1,0 +1,7635 @@
+fileFormatVersion: 2
+guid: 600c3190624b54fdba95619d75d56fdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: DelverTiles_v2_0
+  - first:
+      213: 21300002
+    second: DelverTiles_v2_1
+  - first:
+      213: 21300004
+    second: DelverTiles_v2_2
+  - first:
+      213: 21300006
+    second: DelverTiles_v2_3
+  - first:
+      213: 21300008
+    second: DelverTiles_v2_4
+  - first:
+      213: 21300010
+    second: DelverTiles_v2_5
+  - first:
+      213: 21300012
+    second: DelverTiles_v2_6
+  - first:
+      213: 21300014
+    second: DelverTiles_v2_7
+  - first:
+      213: 21300016
+    second: DelverTiles_v2_8
+  - first:
+      213: 21300018
+    second: DelverTiles_v2_9
+  - first:
+      213: 21300020
+    second: DelverTiles_v2_10
+  - first:
+      213: 21300022
+    second: DelverTiles_v2_11
+  - first:
+      213: 21300024
+    second: DelverTiles_v2_12
+  - first:
+      213: 21300026
+    second: DelverTiles_v2_13
+  - first:
+      213: 21300028
+    second: DelverTiles_v2_14
+  - first:
+      213: 21300030
+    second: DelverTiles_v2_15
+  - first:
+      213: 21300032
+    second: DelverTiles_v2_16
+  - first:
+      213: 21300034
+    second: DelverTiles_v2_17
+  - first:
+      213: 21300036
+    second: DelverTiles_v2_18
+  - first:
+      213: 21300038
+    second: DelverTiles_v2_19
+  - first:
+      213: 21300040
+    second: DelverTiles_v2_20
+  - first:
+      213: 21300042
+    second: DelverTiles_v2_21
+  - first:
+      213: 21300044
+    second: DelverTiles_v2_22
+  - first:
+      213: 21300046
+    second: DelverTiles_v2_23
+  - first:
+      213: 21300048
+    second: DelverTiles_v2_24
+  - first:
+      213: 21300050
+    second: DelverTiles_v2_25
+  - first:
+      213: 21300052
+    second: DelverTiles_v2_26
+  - first:
+      213: 21300054
+    second: DelverTiles_v2_27
+  - first:
+      213: 21300056
+    second: DelverTiles_v2_28
+  - first:
+      213: 21300058
+    second: DelverTiles_v2_29
+  - first:
+      213: 21300060
+    second: DelverTiles_v2_30
+  - first:
+      213: 21300062
+    second: DelverTiles_v2_31
+  - first:
+      213: 21300064
+    second: DelverTiles_v2_32
+  - first:
+      213: 21300066
+    second: DelverTiles_v2_33
+  - first:
+      213: 21300068
+    second: DelverTiles_v2_34
+  - first:
+      213: 21300070
+    second: DelverTiles_v2_35
+  - first:
+      213: 21300072
+    second: DelverTiles_v2_36
+  - first:
+      213: 21300074
+    second: DelverTiles_v2_37
+  - first:
+      213: 21300076
+    second: DelverTiles_v2_38
+  - first:
+      213: 21300078
+    second: DelverTiles_v2_39
+  - first:
+      213: 21300080
+    second: DelverTiles_v2_40
+  - first:
+      213: 21300082
+    second: DelverTiles_v2_41
+  - first:
+      213: 21300084
+    second: DelverTiles_v2_42
+  - first:
+      213: 21300086
+    second: DelverTiles_v2_43
+  - first:
+      213: 21300088
+    second: DelverTiles_v2_44
+  - first:
+      213: 21300090
+    second: DelverTiles_v2_45
+  - first:
+      213: 21300092
+    second: DelverTiles_v2_46
+  - first:
+      213: 21300094
+    second: DelverTiles_v2_47
+  - first:
+      213: 21300096
+    second: DelverTiles_v2_48
+  - first:
+      213: 21300098
+    second: DelverTiles_v2_49
+  - first:
+      213: 21300100
+    second: DelverTiles_v2_50
+  - first:
+      213: 21300102
+    second: DelverTiles_v2_51
+  - first:
+      213: 21300104
+    second: DelverTiles_v2_52
+  - first:
+      213: 21300106
+    second: DelverTiles_v2_53
+  - first:
+      213: 21300108
+    second: DelverTiles_v2_54
+  - first:
+      213: 21300110
+    second: DelverTiles_v2_55
+  - first:
+      213: 21300112
+    second: DelverTiles_v2_56
+  - first:
+      213: 21300114
+    second: DelverTiles_v2_57
+  - first:
+      213: 21300116
+    second: DelverTiles_v2_58
+  - first:
+      213: 21300118
+    second: DelverTiles_v2_59
+  - first:
+      213: 21300120
+    second: DelverTiles_v2_60
+  - first:
+      213: 21300122
+    second: DelverTiles_v2_61
+  - first:
+      213: 21300124
+    second: DelverTiles_v2_62
+  - first:
+      213: 21300126
+    second: DelverTiles_v2_63
+  - first:
+      213: 21300128
+    second: DelverTiles_v2_64
+  - first:
+      213: 21300130
+    second: DelverTiles_v2_65
+  - first:
+      213: 21300132
+    second: DelverTiles_v2_66
+  - first:
+      213: 21300134
+    second: DelverTiles_v2_67
+  - first:
+      213: 21300136
+    second: DelverTiles_v2_68
+  - first:
+      213: 21300138
+    second: DelverTiles_v2_69
+  - first:
+      213: 21300140
+    second: DelverTiles_v2_70
+  - first:
+      213: 21300142
+    second: DelverTiles_v2_71
+  - first:
+      213: 21300144
+    second: DelverTiles_v2_72
+  - first:
+      213: 21300146
+    second: DelverTiles_v2_73
+  - first:
+      213: 21300148
+    second: DelverTiles_v2_74
+  - first:
+      213: 21300150
+    second: DelverTiles_v2_75
+  - first:
+      213: 21300152
+    second: DelverTiles_v2_76
+  - first:
+      213: 21300154
+    second: DelverTiles_v2_77
+  - first:
+      213: 21300156
+    second: DelverTiles_v2_78
+  - first:
+      213: 21300158
+    second: DelverTiles_v2_79
+  - first:
+      213: 21300160
+    second: DelverTiles_v2_80
+  - first:
+      213: 21300162
+    second: DelverTiles_v2_81
+  - first:
+      213: 21300164
+    second: DelverTiles_v2_82
+  - first:
+      213: 21300166
+    second: DelverTiles_v2_83
+  - first:
+      213: 21300168
+    second: DelverTiles_v2_84
+  - first:
+      213: 21300170
+    second: DelverTiles_v2_85
+  - first:
+      213: 21300172
+    second: DelverTiles_v2_86
+  - first:
+      213: 21300174
+    second: DelverTiles_v2_87
+  - first:
+      213: 21300176
+    second: DelverTiles_v2_88
+  - first:
+      213: 21300178
+    second: DelverTiles_v2_89
+  - first:
+      213: 21300180
+    second: DelverTiles_v2_90
+  - first:
+      213: 21300182
+    second: DelverTiles_v2_91
+  - first:
+      213: 21300184
+    second: DelverTiles_v2_92
+  - first:
+      213: 21300186
+    second: DelverTiles_v2_93
+  - first:
+      213: 21300188
+    second: DelverTiles_v2_94
+  - first:
+      213: 21300190
+    second: DelverTiles_v2_95
+  - first:
+      213: 21300192
+    second: DelverTiles_v2_96
+  - first:
+      213: 21300194
+    second: DelverTiles_v2_97
+  - first:
+      213: 21300196
+    second: DelverTiles_v2_98
+  - first:
+      213: 21300198
+    second: DelverTiles_v2_99
+  - first:
+      213: 21300200
+    second: DelverTiles_v2_100
+  - first:
+      213: 21300202
+    second: DelverTiles_v2_101
+  - first:
+      213: 21300204
+    second: DelverTiles_v2_102
+  - first:
+      213: 21300206
+    second: DelverTiles_v3_0
+  - first:
+      213: 21300208
+    second: DelverTiles_v3_1
+  - first:
+      213: 21300210
+    second: DelverTiles_v3_2
+  - first:
+      213: 21300212
+    second: DelverTiles_v3_3
+  - first:
+      213: 21300214
+    second: DelverTiles_v3_4
+  - first:
+      213: 21300216
+    second: DelverTiles_v3_5
+  - first:
+      213: 21300218
+    second: DelverTiles_v3_6
+  - first:
+      213: 21300220
+    second: DelverTiles_v3_7
+  - first:
+      213: 21300222
+    second: DelverTiles_v3_8
+  - first:
+      213: 21300224
+    second: DelverTiles_v3_9
+  - first:
+      213: 21300226
+    second: DelverTiles_v3_10
+  - first:
+      213: 21300228
+    second: DelverTiles_v3_11
+  - first:
+      213: 21300230
+    second: DelverTiles_v3_12
+  - first:
+      213: 21300232
+    second: DelverTiles_v3_13
+  - first:
+      213: 21300234
+    second: DelverTiles_v3_14
+  - first:
+      213: 21300236
+    second: DelverTiles_v3_15
+  - first:
+      213: 21300238
+    second: DelverTiles_v3_16
+  - first:
+      213: 21300240
+    second: DelverTiles_v3_17
+  - first:
+      213: 21300242
+    second: DelverTiles_v3_18
+  - first:
+      213: 21300244
+    second: DelverTiles_v3_19
+  - first:
+      213: 21300246
+    second: DelverTiles_v3_20
+  - first:
+      213: 21300248
+    second: DelverTiles_v3_21
+  - first:
+      213: 21300250
+    second: DelverTiles_v3_22
+  - first:
+      213: 21300252
+    second: DelverTiles_v3_23
+  - first:
+      213: 21300254
+    second: DelverTiles_v3_24
+  - first:
+      213: 21300256
+    second: DelverTiles_v3_25
+  - first:
+      213: 21300258
+    second: DelverTiles_v3_26
+  - first:
+      213: 21300260
+    second: DelverTiles_v3_27
+  - first:
+      213: 21300262
+    second: DelverTiles_v3_28
+  - first:
+      213: 21300264
+    second: DelverTiles_v3_29
+  - first:
+      213: 21300266
+    second: DelverTiles_v3_30
+  - first:
+      213: 21300268
+    second: DelverTiles_v3_31
+  - first:
+      213: 21300270
+    second: DelverTiles_v3_32
+  - first:
+      213: 21300272
+    second: DelverTiles_v3_33
+  - first:
+      213: 21300274
+    second: DelverTiles_v3_34
+  - first:
+      213: 21300276
+    second: DelverTiles_v3_35
+  - first:
+      213: 21300278
+    second: DelverTiles_v3_36
+  - first:
+      213: 21300280
+    second: DelverTiles_v3_37
+  - first:
+      213: 21300282
+    second: DelverTiles_v3_38
+  - first:
+      213: 21300284
+    second: DelverTiles_v3_39
+  - first:
+      213: 21300286
+    second: DelverTiles_v3_40
+  - first:
+      213: 21300288
+    second: DelverTiles_v3_41
+  - first:
+      213: 21300290
+    second: DelverTiles_v3_42
+  - first:
+      213: 21300292
+    second: DelverTiles_v3_43
+  - first:
+      213: 21300294
+    second: DelverTiles_v3_44
+  - first:
+      213: 21300296
+    second: DelverTiles_v3_45
+  - first:
+      213: 21300298
+    second: DelverTiles_v3_46
+  - first:
+      213: 21300300
+    second: DelverTiles_v3_47
+  - first:
+      213: 21300302
+    second: DelverTiles_v3_48
+  - first:
+      213: 21300304
+    second: DelverTiles_v3_49
+  - first:
+      213: 21300306
+    second: DelverTiles_v3_50
+  - first:
+      213: 21300308
+    second: DelverTiles_v3_51
+  - first:
+      213: 21300310
+    second: DelverTiles_v3_52
+  - first:
+      213: 21300312
+    second: DelverTiles_v3_53
+  - first:
+      213: 21300314
+    second: DelverTiles_v3_54
+  - first:
+      213: 21300316
+    second: DelverTiles_v3_55
+  - first:
+      213: 21300318
+    second: DelverTiles_v3_56
+  - first:
+      213: 21300320
+    second: DelverTiles_v3_57
+  - first:
+      213: 21300322
+    second: DelverTiles_v3_58
+  - first:
+      213: 21300324
+    second: DelverTiles_v3_59
+  - first:
+      213: 21300326
+    second: DelverTiles_v3_60
+  - first:
+      213: 21300328
+    second: DelverTiles_v3_61
+  - first:
+      213: 21300330
+    second: DelverTiles_v3_62
+  - first:
+      213: 21300332
+    second: DelverTiles_v3_63
+  - first:
+      213: 21300334
+    second: DelverTiles_v3_64
+  - first:
+      213: 21300336
+    second: DelverTiles_v3_65
+  - first:
+      213: 21300338
+    second: DelverTiles_v3_66
+  - first:
+      213: 21300340
+    second: DelverTiles_v3_67
+  - first:
+      213: 21300342
+    second: DelverTiles_v3_68
+  - first:
+      213: 21300344
+    second: DelverTiles_v3_69
+  - first:
+      213: 21300346
+    second: DelverTiles_v3_70
+  - first:
+      213: 21300348
+    second: DelverTiles_v3_71
+  - first:
+      213: 21300350
+    second: DelverTiles_v3_72
+  - first:
+      213: 21300352
+    second: DelverTiles_v3_73
+  - first:
+      213: 21300354
+    second: DelverTiles_v3_74
+  - first:
+      213: 21300356
+    second: DelverTiles_v3_75
+  - first:
+      213: 21300358
+    second: DelverTiles_v3_76
+  - first:
+      213: 21300360
+    second: DelverTiles_v3_77
+  - first:
+      213: 21300362
+    second: DelverTiles_v3_78
+  - first:
+      213: 21300364
+    second: DelverTiles_v3_79
+  - first:
+      213: 21300366
+    second: DelverTiles_v3_80
+  - first:
+      213: 21300368
+    second: DelverTiles_v3_81
+  - first:
+      213: 21300370
+    second: DelverTiles_v3_82
+  - first:
+      213: 21300372
+    second: DelverTiles_v3_83
+  - first:
+      213: 21300374
+    second: DelverTiles_v3_84
+  - first:
+      213: 21300376
+    second: DelverTiles_v3_85
+  - first:
+      213: 21300378
+    second: DelverTiles_v3_86
+  - first:
+      213: 21300380
+    second: DelverTiles_v3_87
+  - first:
+      213: 21300382
+    second: DelverTiles_v3_88
+  - first:
+      213: 21300384
+    second: DelverTiles_v3_89
+  - first:
+      213: 21300386
+    second: DelverTiles_v3_90
+  - first:
+      213: 21300388
+    second: DelverTiles_v3_91
+  - first:
+      213: 21300390
+    second: DelverTiles_v3_92
+  - first:
+      213: 21300392
+    second: DelverTiles_v3_93
+  - first:
+      213: 21300394
+    second: DelverTiles_v3_94
+  - first:
+      213: 21300396
+    second: DelverTiles_v3_95
+  - first:
+      213: 21300398
+    second: DelverTiles_v3_96
+  - first:
+      213: 21300400
+    second: DelverTiles_v3_97
+  - first:
+      213: 21300402
+    second: DelverTiles_v3_98
+  - first:
+      213: 21300404
+    second: DelverTiles_v3_99
+  - first:
+      213: 21300406
+    second: DelverTiles_v3_100
+  - first:
+      213: 21300408
+    second: DelverTiles_v3_101
+  - first:
+      213: 21300410
+    second: DelverTiles_v3_102
+  - first:
+      213: 21300412
+    second: DelverTiles_v3_103
+  - first:
+      213: 21300414
+    second: DelverTiles_v3_104
+  - first:
+      213: 21300416
+    second: DelverTiles_v3_105
+  - first:
+      213: 21300418
+    second: DelverTiles_v3_106
+  - first:
+      213: 21300420
+    second: DelverTiles_v3_107
+  - first:
+      213: 21300422
+    second: DelverTiles_v3_108
+  - first:
+      213: 21300424
+    second: DelverTiles_v3_109
+  - first:
+      213: 21300426
+    second: DelverTiles_v3_110
+  - first:
+      213: 21300428
+    second: DelverTiles_v3_111
+  - first:
+      213: 21300430
+    second: DelverTiles_v3_112
+  - first:
+      213: 21300432
+    second: DelverTiles_v3_113
+  - first:
+      213: 21300434
+    second: DelverTiles_v3_114
+  - first:
+      213: 21300436
+    second: DelverTiles_v3_115
+  - first:
+      213: 21300438
+    second: DelverTiles_v3_116
+  - first:
+      213: 21300440
+    second: DelverTiles_v3_117
+  - first:
+      213: 21300442
+    second: DelverTiles_v3_118
+  - first:
+      213: 21300444
+    second: DelverTiles_v3_119
+  - first:
+      213: 21300446
+    second: DelverTiles_v3_120
+  - first:
+      213: 21300448
+    second: DelverTiles_v3_121
+  - first:
+      213: 21300450
+    second: DelverTiles_v3_122
+  - first:
+      213: 21300452
+    second: DelverTiles_v3_123
+  - first:
+      213: 21300454
+    second: DelverTiles_v3_124
+  - first:
+      213: 21300456
+    second: DelverTiles_v3_125
+  - first:
+      213: 21300458
+    second: DelverTiles_v3_126
+  - first:
+      213: 21300460
+    second: DelverTiles_v3_127
+  - first:
+      213: 21300462
+    second: DelverTiles_v3_128
+  - first:
+      213: 21300464
+    second: DelverTiles_v3_129
+  - first:
+      213: 21300466
+    second: DelverTiles_v3_130
+  - first:
+      213: 21300468
+    second: DelverTiles_v3_131
+  - first:
+      213: 21300470
+    second: DelverTiles_v3_132
+  - first:
+      213: 21300472
+    second: DelverTiles_v3_133
+  - first:
+      213: 21300474
+    second: DelverTiles_v3_134
+  - first:
+      213: 21300476
+    second: DelverTiles_v3_135
+  - first:
+      213: 21300478
+    second: DelverTiles_v3_136
+  - first:
+      213: 21300480
+    second: DelverTiles_v3_137
+  - first:
+      213: 21300482
+    second: DelverTiles_v3_138
+  - first:
+      213: 21300484
+    second: DelverTiles_v3_139
+  - first:
+      213: 21300486
+    second: DelverTiles_v3_140
+  - first:
+      213: 21300488
+    second: DelverTiles_v3_141
+  - first:
+      213: 21300490
+    second: DelverTiles_v3_142
+  - first:
+      213: 21300492
+    second: DelverTiles_v3_143
+  - first:
+      213: 21300494
+    second: DelverTiles_v3_144
+  - first:
+      213: 21300496
+    second: DelverTiles_v3_145
+  - first:
+      213: 21300498
+    second: DelverTiles_v3_146
+  - first:
+      213: 21300500
+    second: DelverTiles_v3_147
+  - first:
+      213: 21300502
+    second: DelverTiles_v3_148
+  - first:
+      213: 21300504
+    second: DelverTiles_v3_149
+  - first:
+      213: 21300506
+    second: DelverTiles_v3_150
+  - first:
+      213: 21300508
+    second: DelverTiles_v3_151
+  - first:
+      213: 21300510
+    second: DelverTiles_v3_152
+  - first:
+      213: 21300512
+    second: DelverTiles_v3_153
+  - first:
+      213: 21300514
+    second: DelverTiles_v3_154
+  - first:
+      213: 21300516
+    second: DelverTiles_v3_155
+  - first:
+      213: 21300518
+    second: DelverTiles_v3_156
+  - first:
+      213: 21300520
+    second: DelverTiles_v3_157
+  - first:
+      213: 21300522
+    second: DelverTiles_v3_158
+  - first:
+      213: 21300524
+    second: DelverTiles_v3_159
+  - first:
+      213: 21300526
+    second: DelverTiles_v3_160
+  - first:
+      213: 21300528
+    second: DelverTiles_v3_161
+  - first:
+      213: 21300530
+    second: DelverTiles_v3_162
+  - first:
+      213: 21300532
+    second: DelverTiles_v3_163
+  - first:
+      213: 21300534
+    second: DelverTiles_v3_164
+  - first:
+      213: 21300536
+    second: DelverTiles_v3_165
+  - first:
+      213: 21300538
+    second: DelverTiles_v3_166
+  - first:
+      213: 21300540
+    second: DelverTiles_v3_167
+  - first:
+      213: 21300542
+    second: DelverTiles_v3_168
+  - first:
+      213: 21300544
+    second: DelverTiles_v3_169
+  - first:
+      213: 21300546
+    second: DelverTiles_v3_170
+  - first:
+      213: 21300548
+    second: DelverTiles_v3_171
+  - first:
+      213: 21300550
+    second: DelverTiles_v3_172
+  - first:
+      213: 21300552
+    second: DelverTiles_v3_173
+  - first:
+      213: 21300554
+    second: DelverTiles_v3_174
+  - first:
+      213: 21300556
+    second: DelverTiles_v3_175
+  - first:
+      213: 21300558
+    second: DelverTiles_v3_176
+  - first:
+      213: 21300560
+    second: DelverTiles_v3_177
+  - first:
+      213: 21300562
+    second: DelverTiles_v3_178
+  - first:
+      213: 21300564
+    second: DelverTiles_v3_179
+  - first:
+      213: 21300566
+    second: DelverTiles_v3_180
+  - first:
+      213: 21300568
+    second: DelverTiles_v3_181
+  - first:
+      213: 21300570
+    second: DelverTiles_v3_182
+  - first:
+      213: 21300572
+    second: DelverTiles_v3_183
+  - first:
+      213: 21300574
+    second: DelverTiles_v3_184
+  - first:
+      213: 21300576
+    second: DelverTiles_v3_185
+  - first:
+      213: 21300578
+    second: DelverTiles_v3_186
+  - first:
+      213: 21300580
+    second: DelverTiles_v3_187
+  - first:
+      213: 21300582
+    second: DelverTiles_v3_188
+  - first:
+      213: 21300584
+    second: DelverTiles_v3_189
+  - first:
+      213: 21300586
+    second: DelverTiles_v3_190
+  - first:
+      213: 21300588
+    second: DelverTiles_v3_191
+  - first:
+      213: 21300590
+    second: DelverTiles_v3_192
+  - first:
+      213: 21300592
+    second: DelverTiles_v3_193
+  - first:
+      213: 21300594
+    second: DelverTiles_v3_194
+  - first:
+      213: 21300596
+    second: DelverTiles_v3_195
+  - first:
+      213: 21300598
+    second: DelverTiles_v3_196
+  - first:
+      213: 21300600
+    second: DelverTiles_v3_197
+  - first:
+      213: 21300602
+    second: DelverTiles_v3_198
+  - first:
+      213: 21300604
+    second: DelverTiles_v3_199
+  - first:
+      213: 21300606
+    second: DelverTiles_v3_200
+  - first:
+      213: 21300608
+    second: DelverTiles_v3_201
+  - first:
+      213: 21300610
+    second: DelverTiles_v3_202
+  - first:
+      213: 21300612
+    second: DelverTiles_v3_203
+  - first:
+      213: 21300614
+    second: DelverTiles_v3_204
+  - first:
+      213: 21300616
+    second: DelverTiles_v3_205
+  - first:
+      213: 21300618
+    second: DelverTiles_v3_206
+  - first:
+      213: 21300620
+    second: DelverTiles_v3_207
+  - first:
+      213: 21300622
+    second: DelverTiles_v3_208
+  - first:
+      213: 21300624
+    second: DelverTiles_v3_209
+  - first:
+      213: 21300626
+    second: DelverTiles_v3_210
+  - first:
+      213: 21300628
+    second: DelverTiles_v3_211
+  - first:
+      213: 21300630
+    second: DelverTiles_v3_212
+  - first:
+      213: 21300632
+    second: DelverTiles_v3_213
+  - first:
+      213: 21300634
+    second: DelverTiles_v3_214
+  - first:
+      213: 21300636
+    second: DelverTiles_v3_215
+  - first:
+      213: 21300638
+    second: DelverTiles_v3_216
+  - first:
+      213: 21300640
+    second: DelverTiles_v3_217
+  - first:
+      213: 21300642
+    second: DelverTiles_v3_218
+  - first:
+      213: 21300644
+    second: DelverTiles_v3_219
+  - first:
+      213: 21300646
+    second: DelverTiles_v3_220
+  - first:
+      213: 21300648
+    second: DelverTiles_v3_221
+  - first:
+      213: 21300650
+    second: DelverTiles_v3_222
+  - first:
+      213: 21300652
+    second: DelverTiles_v3_223
+  - first:
+      213: 21300654
+    second: DelverTiles_v3_224
+  - first:
+      213: 21300656
+    second: DelverTiles_v3_225
+  - first:
+      213: 21300658
+    second: DelverTiles_v3_226
+  - first:
+      213: 21300660
+    second: DelverTiles_v3_227
+  - first:
+      213: 21300662
+    second: DelverTiles_v3_228
+  - first:
+      213: 21300664
+    second: DelverTiles_v3_229
+  - first:
+      213: 21300666
+    second: DelverTiles_v3_230
+  - first:
+      213: 21300668
+    second: DelverTiles_v3_231
+  - first:
+      213: 21300670
+    second: DelverTiles_v3_232
+  - first:
+      213: 21300672
+    second: DelverTiles_v3_233
+  - first:
+      213: 21300674
+    second: DelverTiles_v3_234
+  - first:
+      213: 21300676
+    second: DelverTiles_v3_235
+  - first:
+      213: 21300678
+    second: DelverTiles_v3_236
+  - first:
+      213: 21300680
+    second: DelverTiles_v3_237
+  - first:
+      213: 21300682
+    second: DelverTiles_v3_238
+  - first:
+      213: 21300684
+    second: DelverTiles_v3_239
+  - first:
+      213: 21300686
+    second: DelverTiles_v3_240
+  - first:
+      213: 21300688
+    second: DelverTiles_v3_241
+  - first:
+      213: 21300690
+    second: DelverTiles_v3_242
+  - first:
+      213: 21300692
+    second: DelverTiles_v3_243
+  - first:
+      213: 21300694
+    second: DelverTiles_v3_244
+  - first:
+      213: 21300696
+    second: DelverTiles_v3_245
+  - first:
+      213: 21300698
+    second: DelverTiles_v3_246
+  - first:
+      213: 21300700
+    second: DelverTiles_v3_247
+  - first:
+      213: 21300702
+    second: DelverTiles_v3_248
+  - first:
+      213: 21300704
+    second: DelverTiles_v3_249
+  - first:
+      213: 21300706
+    second: DelverTiles_v3_250
+  - first:
+      213: 21300708
+    second: DelverTiles_v3_251
+  - first:
+      213: 21300710
+    second: DelverTiles_v3_252
+  - first:
+      213: 21300712
+    second: DelverTiles_v3_253
+  - first:
+      213: 21300714
+    second: DelverTiles_v3_254
+  - first:
+      213: 21300716
+    second: DelverTiles_v3_255
+  - first:
+      213: 21300718
+    second: DelverTiles_0
+  - first:
+      213: 21300720
+    second: DelverTiles_1
+  - first:
+      213: 21300722
+    second: DelverTiles_2
+  - first:
+      213: 21300724
+    second: DelverTiles_3
+  - first:
+      213: 21300726
+    second: DelverTiles_4
+  - first:
+      213: 21300728
+    second: DelverTiles_5
+  - first:
+      213: 21300730
+    second: DelverTiles_6
+  - first:
+      213: 21300732
+    second: DelverTiles_7
+  - first:
+      213: 21300734
+    second: DelverTiles_8
+  - first:
+      213: 21300736
+    second: DelverTiles_9
+  - first:
+      213: 21300738
+    second: DelverTiles_10
+  - first:
+      213: 21300740
+    second: DelverTiles_11
+  - first:
+      213: 21300742
+    second: DelverTiles_12
+  - first:
+      213: 21300744
+    second: DelverTiles_13
+  - first:
+      213: 21300746
+    second: DelverTiles_14
+  - first:
+      213: 21300748
+    second: DelverTiles_15
+  - first:
+      213: 21300750
+    second: DelverTiles_16
+  - first:
+      213: 21300752
+    second: DelverTiles_17
+  - first:
+      213: 21300754
+    second: DelverTiles_18
+  - first:
+      213: 21300756
+    second: DelverTiles_19
+  - first:
+      213: 21300758
+    second: DelverTiles_20
+  - first:
+      213: 21300760
+    second: DelverTiles_21
+  - first:
+      213: 21300762
+    second: DelverTiles_22
+  - first:
+      213: 21300764
+    second: DelverTiles_23
+  - first:
+      213: 21300766
+    second: DelverTiles_24
+  - first:
+      213: 21300768
+    second: DelverTiles_25
+  - first:
+      213: 21300770
+    second: DelverTiles_26
+  - first:
+      213: 21300772
+    second: DelverTiles_27
+  - first:
+      213: 21300774
+    second: DelverTiles_28
+  - first:
+      213: 21300776
+    second: DelverTiles_29
+  - first:
+      213: 21300778
+    second: DelverTiles_30
+  - first:
+      213: 21300780
+    second: DelverTiles_31
+  - first:
+      213: 21300782
+    second: DelverTiles_32
+  - first:
+      213: 21300784
+    second: DelverTiles_33
+  - first:
+      213: 21300786
+    second: DelverTiles_34
+  - first:
+      213: 21300788
+    second: DelverTiles_35
+  - first:
+      213: 21300790
+    second: DelverTiles_36
+  - first:
+      213: 21300792
+    second: DelverTiles_37
+  - first:
+      213: 21300794
+    second: DelverTiles_38
+  - first:
+      213: 21300796
+    second: DelverTiles_39
+  - first:
+      213: 21300798
+    second: DelverTiles_40
+  - first:
+      213: 21300800
+    second: DelverTiles_41
+  - first:
+      213: 21300802
+    second: DelverTiles_42
+  - first:
+      213: 21300804
+    second: DelverTiles_43
+  - first:
+      213: 21300806
+    second: DelverTiles_44
+  - first:
+      213: 21300808
+    second: DelverTiles_45
+  - first:
+      213: 21300810
+    second: DelverTiles_46
+  - first:
+      213: 21300812
+    second: DelverTiles_47
+  - first:
+      213: 21300814
+    second: DelverTiles_48
+  - first:
+      213: 21300816
+    second: DelverTiles_49
+  - first:
+      213: 21300818
+    second: DelverTiles_50
+  - first:
+      213: 21300820
+    second: DelverTiles_51
+  - first:
+      213: 21300822
+    second: DelverTiles_52
+  - first:
+      213: 21300824
+    second: DelverTiles_53
+  - first:
+      213: 21300826
+    second: DelverTiles_54
+  - first:
+      213: 21300828
+    second: DelverTiles_55
+  - first:
+      213: 21300830
+    second: DelverTiles_56
+  - first:
+      213: 21300832
+    second: DelverTiles_57
+  - first:
+      213: 21300834
+    second: DelverTiles_58
+  - first:
+      213: 21300836
+    second: DelverTiles_59
+  - first:
+      213: 21300838
+    second: DelverTiles_60
+  - first:
+      213: 21300840
+    second: DelverTiles_61
+  - first:
+      213: 21300842
+    second: DelverTiles_62
+  - first:
+      213: 21300844
+    second: DelverTiles_63
+  - first:
+      213: 21300846
+    second: DelverTiles_64
+  - first:
+      213: 21300848
+    second: DelverTiles_65
+  - first:
+      213: 21300850
+    second: DelverTiles_66
+  - first:
+      213: 21300852
+    second: DelverTiles_67
+  - first:
+      213: 21300854
+    second: DelverTiles_68
+  - first:
+      213: 21300856
+    second: DelverTiles_69
+  - first:
+      213: 21300858
+    second: DelverTiles_70
+  - first:
+      213: 21300860
+    second: DelverTiles_71
+  - first:
+      213: 21300862
+    second: DelverTiles_72
+  - first:
+      213: 21300864
+    second: DelverTiles_73
+  - first:
+      213: 21300866
+    second: DelverTiles_74
+  - first:
+      213: 21300868
+    second: DelverTiles_75
+  - first:
+      213: 21300870
+    second: DelverTiles_76
+  - first:
+      213: 21300872
+    second: DelverTiles_77
+  - first:
+      213: 21300874
+    second: DelverTiles_78
+  - first:
+      213: 21300876
+    second: DelverTiles_79
+  - first:
+      213: 21300878
+    second: DelverTiles_80
+  - first:
+      213: 21300880
+    second: DelverTiles_81
+  - first:
+      213: 21300882
+    second: DelverTiles_82
+  - first:
+      213: 21300884
+    second: DelverTiles_83
+  - first:
+      213: 21300886
+    second: DelverTiles_84
+  - first:
+      213: 21300888
+    second: DelverTiles_85
+  - first:
+      213: 21300890
+    second: DelverTiles_86
+  - first:
+      213: 21300892
+    second: DelverTiles_87
+  - first:
+      213: 21300894
+    second: DelverTiles_88
+  - first:
+      213: 21300896
+    second: DelverTiles_89
+  - first:
+      213: 21300898
+    second: DelverTiles_90
+  - first:
+      213: 21300900
+    second: DelverTiles_91
+  - first:
+      213: 21300902
+    second: DelverTiles_92
+  - first:
+      213: 21300904
+    second: DelverTiles_93
+  - first:
+      213: 21300906
+    second: DelverTiles_94
+  - first:
+      213: 21300908
+    second: DelverTiles_95
+  - first:
+      213: 21300910
+    second: DelverTiles_96
+  - first:
+      213: 21300912
+    second: DelverTiles_97
+  - first:
+      213: 21300914
+    second: DelverTiles_98
+  - first:
+      213: 21300916
+    second: DelverTiles_99
+  - first:
+      213: 21300918
+    second: DelverTiles_100
+  - first:
+      213: 21300920
+    second: DelverTiles_101
+  - first:
+      213: 21300922
+    second: DelverTiles_102
+  - first:
+      213: 21300924
+    second: DelverTiles_103
+  - first:
+      213: 21300926
+    second: DelverTiles_104
+  - first:
+      213: 21300928
+    second: DelverTiles_105
+  - first:
+      213: 21300930
+    second: DelverTiles_106
+  - first:
+      213: 21300932
+    second: DelverTiles_107
+  - first:
+      213: 21300934
+    second: DelverTiles_108
+  - first:
+      213: 21300936
+    second: DelverTiles_109
+  - first:
+      213: 21300938
+    second: DelverTiles_110
+  - first:
+      213: 21300940
+    second: DelverTiles_111
+  - first:
+      213: 21300942
+    second: DelverTiles_112
+  - first:
+      213: 21300944
+    second: DelverTiles_113
+  - first:
+      213: 21300946
+    second: DelverTiles_114
+  - first:
+      213: 21300948
+    second: DelverTiles_115
+  - first:
+      213: 21300950
+    second: DelverTiles_116
+  - first:
+      213: 21300952
+    second: DelverTiles_117
+  - first:
+      213: 21300954
+    second: DelverTiles_118
+  - first:
+      213: 21300956
+    second: DelverTiles_119
+  - first:
+      213: 21300958
+    second: DelverTiles_120
+  - first:
+      213: 21300960
+    second: DelverTiles_121
+  - first:
+      213: 21300962
+    second: DelverTiles_122
+  - first:
+      213: 21300964
+    second: DelverTiles_123
+  - first:
+      213: 21300966
+    second: DelverTiles_124
+  - first:
+      213: 21300968
+    second: DelverTiles_125
+  - first:
+      213: 21300970
+    second: DelverTiles_126
+  - first:
+      213: 21300972
+    second: DelverTiles_127
+  - first:
+      213: 21300974
+    second: DelverTiles_128
+  - first:
+      213: 21300976
+    second: DelverTiles_129
+  - first:
+      213: 21300978
+    second: DelverTiles_130
+  - first:
+      213: 21300980
+    second: DelverTiles_131
+  - first:
+      213: 21300982
+    second: DelverTiles_132
+  - first:
+      213: 21300984
+    second: DelverTiles_133
+  - first:
+      213: 21300986
+    second: DelverTiles_134
+  - first:
+      213: 21300988
+    second: DelverTiles_135
+  - first:
+      213: 21300990
+    second: DelverTiles_136
+  - first:
+      213: 21300992
+    second: DelverTiles_137
+  - first:
+      213: 21300994
+    second: DelverTiles_138
+  - first:
+      213: 21300996
+    second: DelverTiles_139
+  - first:
+      213: 21300998
+    second: DelverTiles_140
+  - first:
+      213: 21301000
+    second: DelverTiles_141
+  - first:
+      213: 21301002
+    second: DelverTiles_142
+  - first:
+      213: 21301004
+    second: DelverTiles_143
+  - first:
+      213: 21301006
+    second: DelverTiles_144
+  - first:
+      213: 21301008
+    second: DelverTiles_145
+  - first:
+      213: 21301010
+    second: DelverTiles_146
+  - first:
+      213: 21301012
+    second: DelverTiles_147
+  - first:
+      213: 21301014
+    second: DelverTiles_148
+  - first:
+      213: 21301016
+    second: DelverTiles_149
+  - first:
+      213: 21301018
+    second: DelverTiles_150
+  - first:
+      213: 21301020
+    second: DelverTiles_151
+  - first:
+      213: 21301022
+    second: DelverTiles_152
+  - first:
+      213: 21301024
+    second: DelverTiles_153
+  - first:
+      213: 21301026
+    second: DelverTiles_154
+  - first:
+      213: 21301028
+    second: DelverTiles_155
+  - first:
+      213: 21301030
+    second: DelverTiles_156
+  - first:
+      213: 21301032
+    second: DelverTiles_157
+  - first:
+      213: 21301034
+    second: DelverTiles_158
+  - first:
+      213: 21301036
+    second: DelverTiles_159
+  - first:
+      213: 21301038
+    second: DelverTiles_160
+  - first:
+      213: 21301040
+    second: DelverTiles_161
+  - first:
+      213: 21301042
+    second: DelverTiles_162
+  - first:
+      213: 21301044
+    second: DelverTiles_163
+  - first:
+      213: 21301046
+    second: DelverTiles_164
+  - first:
+      213: 21301048
+    second: DelverTiles_165
+  - first:
+      213: 21301050
+    second: DelverTiles_166
+  - first:
+      213: 21301052
+    second: DelverTiles_167
+  - first:
+      213: 21301054
+    second: DelverTiles_168
+  - first:
+      213: 21301056
+    second: DelverTiles_169
+  - first:
+      213: 21301058
+    second: DelverTiles_170
+  - first:
+      213: 21301060
+    second: DelverTiles_171
+  - first:
+      213: 21301062
+    second: DelverTiles_172
+  - first:
+      213: 21301064
+    second: DelverTiles_173
+  - first:
+      213: 21301066
+    second: DelverTiles_174
+  - first:
+      213: 21301068
+    second: DelverTiles_175
+  - first:
+      213: 21301070
+    second: DelverTiles_176
+  - first:
+      213: 21301072
+    second: DelverTiles_177
+  - first:
+      213: 21301074
+    second: DelverTiles_178
+  - first:
+      213: 21301076
+    second: DelverTiles_179
+  - first:
+      213: 21301078
+    second: DelverTiles_180
+  - first:
+      213: 21301080
+    second: DelverTiles_181
+  - first:
+      213: 21301082
+    second: DelverTiles_182
+  - first:
+      213: 21301084
+    second: DelverTiles_183
+  - first:
+      213: 21301086
+    second: DelverTiles_184
+  - first:
+      213: 21301088
+    second: DelverTiles_185
+  - first:
+      213: 21301090
+    second: DelverTiles_186
+  - first:
+      213: 21301092
+    second: DelverTiles_187
+  - first:
+      213: 21301094
+    second: DelverTiles_188
+  - first:
+      213: 21301096
+    second: DelverTiles_189
+  - first:
+      213: 21301098
+    second: DelverTiles_190
+  - first:
+      213: 21301100
+    second: DelverTiles_191
+  - first:
+      213: 21301102
+    second: DelverTiles_192
+  - first:
+      213: 21301104
+    second: DelverTiles_193
+  - first:
+      213: 21301106
+    second: DelverTiles_194
+  - first:
+      213: 21301108
+    second: DelverTiles_195
+  - first:
+      213: 21301110
+    second: DelverTiles_196
+  - first:
+      213: 21301112
+    second: DelverTiles_197
+  - first:
+      213: 21301114
+    second: DelverTiles_198
+  - first:
+      213: 21301116
+    second: DelverTiles_199
+  - first:
+      213: 21301118
+    second: DelverTiles_200
+  - first:
+      213: 21301120
+    second: DelverTiles_201
+  - first:
+      213: 21301122
+    second: DelverTiles_202
+  - first:
+      213: 21301124
+    second: DelverTiles_203
+  - first:
+      213: 21301126
+    second: DelverTiles_204
+  - first:
+      213: 21301128
+    second: DelverTiles_205
+  - first:
+      213: 21301130
+    second: DelverTiles_206
+  - first:
+      213: 21301132
+    second: DelverTiles_207
+  - first:
+      213: 21301134
+    second: DelverTiles_208
+  - first:
+      213: 21301136
+    second: DelverTiles_209
+  - first:
+      213: 21301138
+    second: DelverTiles_210
+  - first:
+      213: 21301140
+    second: DelverTiles_211
+  - first:
+      213: 21301142
+    second: DelverTiles_212
+  - first:
+      213: 21301144
+    second: DelverTiles_213
+  - first:
+      213: 21301146
+    second: DelverTiles_214
+  - first:
+      213: 21301148
+    second: DelverTiles_215
+  - first:
+      213: 21301150
+    second: DelverTiles_216
+  - first:
+      213: 21301152
+    second: DelverTiles_217
+  - first:
+      213: 21301154
+    second: DelverTiles_218
+  - first:
+      213: 21301156
+    second: DelverTiles_219
+  - first:
+      213: 21301158
+    second: DelverTiles_220
+  - first:
+      213: 21301160
+    second: DelverTiles_221
+  - first:
+      213: 21301162
+    second: DelverTiles_222
+  - first:
+      213: 21301164
+    second: DelverTiles_223
+  - first:
+      213: 21301166
+    second: DelverTiles_224
+  - first:
+      213: 21301168
+    second: DelverTiles_225
+  - first:
+      213: 21301170
+    second: DelverTiles_226
+  - first:
+      213: 21301172
+    second: DelverTiles_227
+  - first:
+      213: 21301174
+    second: DelverTiles_228
+  - first:
+      213: 21301176
+    second: DelverTiles_229
+  - first:
+      213: 21301178
+    second: DelverTiles_230
+  - first:
+      213: 21301180
+    second: DelverTiles_231
+  - first:
+      213: 21301182
+    second: DelverTiles_232
+  - first:
+      213: 21301184
+    second: DelverTiles_233
+  - first:
+      213: 21301186
+    second: DelverTiles_234
+  - first:
+      213: 21301188
+    second: DelverTiles_235
+  - first:
+      213: 21301190
+    second: DelverTiles_236
+  - first:
+      213: 21301192
+    second: DelverTiles_237
+  - first:
+      213: 21301194
+    second: DelverTiles_238
+  - first:
+      213: 21301196
+    second: DelverTiles_239
+  - first:
+      213: 21301198
+    second: DelverTiles_240
+  - first:
+      213: 21301200
+    second: DelverTiles_241
+  - first:
+      213: 21301202
+    second: DelverTiles_242
+  - first:
+      213: 21301204
+    second: DelverTiles_243
+  - first:
+      213: 21301206
+    second: DelverTiles_244
+  - first:
+      213: 21301208
+    second: DelverTiles_245
+  - first:
+      213: 21301210
+    second: DelverTiles_246
+  - first:
+      213: 21301212
+    second: DelverTiles_247
+  - first:
+      213: 21301214
+    second: DelverTiles_248
+  - first:
+      213: 21301216
+    second: DelverTiles_249
+  - first:
+      213: 21301218
+    second: DelverTiles_250
+  - first:
+      213: 21301220
+    second: DelverTiles_251
+  - first:
+      213: 21301222
+    second: DelverTiles_252
+  - first:
+      213: 21301224
+    second: DelverTiles_253
+  - first:
+      213: 21301226
+    second: DelverTiles_254
+  - first:
+      213: 21301228
+    second: DelverTiles_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DelverTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee505410000000000800000000000000
+      internalID: 21300718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f505410000000000800000000000000
+      internalID: 21300720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f505410000000000800000000000000
+      internalID: 21300722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f505410000000000800000000000000
+      internalID: 21300724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f505410000000000800000000000000
+      internalID: 21300726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f505410000000000800000000000000
+      internalID: 21300728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af505410000000000800000000000000
+      internalID: 21300730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf505410000000000800000000000000
+      internalID: 21300732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef505410000000000800000000000000
+      internalID: 21300734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00605410000000000800000000000000
+      internalID: 21300736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20605410000000000800000000000000
+      internalID: 21300738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40605410000000000800000000000000
+      internalID: 21300740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60605410000000000800000000000000
+      internalID: 21300742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80605410000000000800000000000000
+      internalID: 21300744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0605410000000000800000000000000
+      internalID: 21300746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0605410000000000800000000000000
+      internalID: 21300748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0605410000000000800000000000000
+      internalID: 21300750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01605410000000000800000000000000
+      internalID: 21300752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21605410000000000800000000000000
+      internalID: 21300754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41605410000000000800000000000000
+      internalID: 21300756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61605410000000000800000000000000
+      internalID: 21300758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81605410000000000800000000000000
+      internalID: 21300760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1605410000000000800000000000000
+      internalID: 21300762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1605410000000000800000000000000
+      internalID: 21300764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1605410000000000800000000000000
+      internalID: 21300766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02605410000000000800000000000000
+      internalID: 21300768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22605410000000000800000000000000
+      internalID: 21300770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42605410000000000800000000000000
+      internalID: 21300772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62605410000000000800000000000000
+      internalID: 21300774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82605410000000000800000000000000
+      internalID: 21300776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2605410000000000800000000000000
+      internalID: 21300778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2605410000000000800000000000000
+      internalID: 21300780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2605410000000000800000000000000
+      internalID: 21300782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03605410000000000800000000000000
+      internalID: 21300784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23605410000000000800000000000000
+      internalID: 21300786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43605410000000000800000000000000
+      internalID: 21300788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63605410000000000800000000000000
+      internalID: 21300790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83605410000000000800000000000000
+      internalID: 21300792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3605410000000000800000000000000
+      internalID: 21300794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3605410000000000800000000000000
+      internalID: 21300796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3605410000000000800000000000000
+      internalID: 21300798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04605410000000000800000000000000
+      internalID: 21300800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24605410000000000800000000000000
+      internalID: 21300802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44605410000000000800000000000000
+      internalID: 21300804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64605410000000000800000000000000
+      internalID: 21300806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84605410000000000800000000000000
+      internalID: 21300808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4605410000000000800000000000000
+      internalID: 21300810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4605410000000000800000000000000
+      internalID: 21300812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4605410000000000800000000000000
+      internalID: 21300814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05605410000000000800000000000000
+      internalID: 21300816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25605410000000000800000000000000
+      internalID: 21300818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45605410000000000800000000000000
+      internalID: 21300820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65605410000000000800000000000000
+      internalID: 21300822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85605410000000000800000000000000
+      internalID: 21300824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5605410000000000800000000000000
+      internalID: 21300826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5605410000000000800000000000000
+      internalID: 21300828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5605410000000000800000000000000
+      internalID: 21300830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06605410000000000800000000000000
+      internalID: 21300832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26605410000000000800000000000000
+      internalID: 21300834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46605410000000000800000000000000
+      internalID: 21300836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66605410000000000800000000000000
+      internalID: 21300838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86605410000000000800000000000000
+      internalID: 21300840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6605410000000000800000000000000
+      internalID: 21300842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6605410000000000800000000000000
+      internalID: 21300844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6605410000000000800000000000000
+      internalID: 21300846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07605410000000000800000000000000
+      internalID: 21300848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27605410000000000800000000000000
+      internalID: 21300850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47605410000000000800000000000000
+      internalID: 21300852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67605410000000000800000000000000
+      internalID: 21300854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87605410000000000800000000000000
+      internalID: 21300856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7605410000000000800000000000000
+      internalID: 21300858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7605410000000000800000000000000
+      internalID: 21300860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7605410000000000800000000000000
+      internalID: 21300862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08605410000000000800000000000000
+      internalID: 21300864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28605410000000000800000000000000
+      internalID: 21300866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_75
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48605410000000000800000000000000
+      internalID: 21300868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68605410000000000800000000000000
+      internalID: 21300870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88605410000000000800000000000000
+      internalID: 21300872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8605410000000000800000000000000
+      internalID: 21300874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8605410000000000800000000000000
+      internalID: 21300876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8605410000000000800000000000000
+      internalID: 21300878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09605410000000000800000000000000
+      internalID: 21300880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29605410000000000800000000000000
+      internalID: 21300882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49605410000000000800000000000000
+      internalID: 21300884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69605410000000000800000000000000
+      internalID: 21300886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89605410000000000800000000000000
+      internalID: 21300888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9605410000000000800000000000000
+      internalID: 21300890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9605410000000000800000000000000
+      internalID: 21300892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9605410000000000800000000000000
+      internalID: 21300894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a605410000000000800000000000000
+      internalID: 21300896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a605410000000000800000000000000
+      internalID: 21300898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a605410000000000800000000000000
+      internalID: 21300900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a605410000000000800000000000000
+      internalID: 21300902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a605410000000000800000000000000
+      internalID: 21300904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa605410000000000800000000000000
+      internalID: 21300906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca605410000000000800000000000000
+      internalID: 21300908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea605410000000000800000000000000
+      internalID: 21300910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b605410000000000800000000000000
+      internalID: 21300912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b605410000000000800000000000000
+      internalID: 21300914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b605410000000000800000000000000
+      internalID: 21300916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b605410000000000800000000000000
+      internalID: 21300918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b605410000000000800000000000000
+      internalID: 21300920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab605410000000000800000000000000
+      internalID: 21300922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb605410000000000800000000000000
+      internalID: 21300924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb605410000000000800000000000000
+      internalID: 21300926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c605410000000000800000000000000
+      internalID: 21300928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c605410000000000800000000000000
+      internalID: 21300930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c605410000000000800000000000000
+      internalID: 21300932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c605410000000000800000000000000
+      internalID: 21300934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_109
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c605410000000000800000000000000
+      internalID: 21300936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac605410000000000800000000000000
+      internalID: 21300938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc605410000000000800000000000000
+      internalID: 21300940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec605410000000000800000000000000
+      internalID: 21300942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d605410000000000800000000000000
+      internalID: 21300944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d605410000000000800000000000000
+      internalID: 21300946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d605410000000000800000000000000
+      internalID: 21300948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d605410000000000800000000000000
+      internalID: 21300950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d605410000000000800000000000000
+      internalID: 21300952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad605410000000000800000000000000
+      internalID: 21300954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd605410000000000800000000000000
+      internalID: 21300956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed605410000000000800000000000000
+      internalID: 21300958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e605410000000000800000000000000
+      internalID: 21300960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e605410000000000800000000000000
+      internalID: 21300962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e605410000000000800000000000000
+      internalID: 21300964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e605410000000000800000000000000
+      internalID: 21300966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e605410000000000800000000000000
+      internalID: 21300968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae605410000000000800000000000000
+      internalID: 21300970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce605410000000000800000000000000
+      internalID: 21300972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee605410000000000800000000000000
+      internalID: 21300974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f605410000000000800000000000000
+      internalID: 21300976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f605410000000000800000000000000
+      internalID: 21300978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f605410000000000800000000000000
+      internalID: 21300980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f605410000000000800000000000000
+      internalID: 21300982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f605410000000000800000000000000
+      internalID: 21300984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af605410000000000800000000000000
+      internalID: 21300986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf605410000000000800000000000000
+      internalID: 21300988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef605410000000000800000000000000
+      internalID: 21300990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_137
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00705410000000000800000000000000
+      internalID: 21300992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20705410000000000800000000000000
+      internalID: 21300994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40705410000000000800000000000000
+      internalID: 21300996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60705410000000000800000000000000
+      internalID: 21300998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_141
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80705410000000000800000000000000
+      internalID: 21301000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0705410000000000800000000000000
+      internalID: 21301002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0705410000000000800000000000000
+      internalID: 21301004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0705410000000000800000000000000
+      internalID: 21301006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01705410000000000800000000000000
+      internalID: 21301008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21705410000000000800000000000000
+      internalID: 21301010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41705410000000000800000000000000
+      internalID: 21301012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61705410000000000800000000000000
+      internalID: 21301014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81705410000000000800000000000000
+      internalID: 21301016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1705410000000000800000000000000
+      internalID: 21301018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1705410000000000800000000000000
+      internalID: 21301020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1705410000000000800000000000000
+      internalID: 21301022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_153
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02705410000000000800000000000000
+      internalID: 21301024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22705410000000000800000000000000
+      internalID: 21301026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_155
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42705410000000000800000000000000
+      internalID: 21301028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62705410000000000800000000000000
+      internalID: 21301030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_157
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82705410000000000800000000000000
+      internalID: 21301032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2705410000000000800000000000000
+      internalID: 21301034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_159
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2705410000000000800000000000000
+      internalID: 21301036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2705410000000000800000000000000
+      internalID: 21301038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03705410000000000800000000000000
+      internalID: 21301040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23705410000000000800000000000000
+      internalID: 21301042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43705410000000000800000000000000
+      internalID: 21301044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_164
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63705410000000000800000000000000
+      internalID: 21301046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_165
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83705410000000000800000000000000
+      internalID: 21301048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3705410000000000800000000000000
+      internalID: 21301050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_167
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3705410000000000800000000000000
+      internalID: 21301052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_168
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3705410000000000800000000000000
+      internalID: 21301054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_169
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04705410000000000800000000000000
+      internalID: 21301056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24705410000000000800000000000000
+      internalID: 21301058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_171
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44705410000000000800000000000000
+      internalID: 21301060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64705410000000000800000000000000
+      internalID: 21301062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_173
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84705410000000000800000000000000
+      internalID: 21301064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4705410000000000800000000000000
+      internalID: 21301066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_175
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4705410000000000800000000000000
+      internalID: 21301068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4705410000000000800000000000000
+      internalID: 21301070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05705410000000000800000000000000
+      internalID: 21301072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_178
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25705410000000000800000000000000
+      internalID: 21301074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_179
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45705410000000000800000000000000
+      internalID: 21301076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65705410000000000800000000000000
+      internalID: 21301078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85705410000000000800000000000000
+      internalID: 21301080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5705410000000000800000000000000
+      internalID: 21301082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_183
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5705410000000000800000000000000
+      internalID: 21301084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5705410000000000800000000000000
+      internalID: 21301086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_185
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06705410000000000800000000000000
+      internalID: 21301088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_186
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26705410000000000800000000000000
+      internalID: 21301090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_187
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46705410000000000800000000000000
+      internalID: 21301092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66705410000000000800000000000000
+      internalID: 21301094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_189
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86705410000000000800000000000000
+      internalID: 21301096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_190
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6705410000000000800000000000000
+      internalID: 21301098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6705410000000000800000000000000
+      internalID: 21301100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6705410000000000800000000000000
+      internalID: 21301102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_193
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07705410000000000800000000000000
+      internalID: 21301104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_194
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27705410000000000800000000000000
+      internalID: 21301106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_195
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47705410000000000800000000000000
+      internalID: 21301108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_196
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67705410000000000800000000000000
+      internalID: 21301110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_197
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87705410000000000800000000000000
+      internalID: 21301112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7705410000000000800000000000000
+      internalID: 21301114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_199
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7705410000000000800000000000000
+      internalID: 21301116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_200
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7705410000000000800000000000000
+      internalID: 21301118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_201
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08705410000000000800000000000000
+      internalID: 21301120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_202
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28705410000000000800000000000000
+      internalID: 21301122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_203
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48705410000000000800000000000000
+      internalID: 21301124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68705410000000000800000000000000
+      internalID: 21301126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_205
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88705410000000000800000000000000
+      internalID: 21301128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_206
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8705410000000000800000000000000
+      internalID: 21301130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_207
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8705410000000000800000000000000
+      internalID: 21301132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8705410000000000800000000000000
+      internalID: 21301134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_209
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09705410000000000800000000000000
+      internalID: 21301136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_210
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29705410000000000800000000000000
+      internalID: 21301138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49705410000000000800000000000000
+      internalID: 21301140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69705410000000000800000000000000
+      internalID: 21301142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_213
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89705410000000000800000000000000
+      internalID: 21301144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_214
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9705410000000000800000000000000
+      internalID: 21301146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_215
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9705410000000000800000000000000
+      internalID: 21301148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_216
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9705410000000000800000000000000
+      internalID: 21301150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_217
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a705410000000000800000000000000
+      internalID: 21301152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_218
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a705410000000000800000000000000
+      internalID: 21301154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_219
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a705410000000000800000000000000
+      internalID: 21301156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_220
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a705410000000000800000000000000
+      internalID: 21301158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_221
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a705410000000000800000000000000
+      internalID: 21301160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_222
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa705410000000000800000000000000
+      internalID: 21301162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_223
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca705410000000000800000000000000
+      internalID: 21301164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea705410000000000800000000000000
+      internalID: 21301166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_225
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b705410000000000800000000000000
+      internalID: 21301168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_226
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b705410000000000800000000000000
+      internalID: 21301170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_227
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b705410000000000800000000000000
+      internalID: 21301172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_228
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b705410000000000800000000000000
+      internalID: 21301174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_229
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b705410000000000800000000000000
+      internalID: 21301176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_230
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab705410000000000800000000000000
+      internalID: 21301178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_231
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb705410000000000800000000000000
+      internalID: 21301180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_232
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb705410000000000800000000000000
+      internalID: 21301182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_233
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c705410000000000800000000000000
+      internalID: 21301184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_234
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c705410000000000800000000000000
+      internalID: 21301186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_235
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c705410000000000800000000000000
+      internalID: 21301188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_236
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c705410000000000800000000000000
+      internalID: 21301190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_237
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c705410000000000800000000000000
+      internalID: 21301192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_238
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac705410000000000800000000000000
+      internalID: 21301194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_239
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc705410000000000800000000000000
+      internalID: 21301196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec705410000000000800000000000000
+      internalID: 21301198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_241
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d705410000000000800000000000000
+      internalID: 21301200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_242
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d705410000000000800000000000000
+      internalID: 21301202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_243
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d705410000000000800000000000000
+      internalID: 21301204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_244
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d705410000000000800000000000000
+      internalID: 21301206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_245
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d705410000000000800000000000000
+      internalID: 21301208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_246
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad705410000000000800000000000000
+      internalID: 21301210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_247
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd705410000000000800000000000000
+      internalID: 21301212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_248
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed705410000000000800000000000000
+      internalID: 21301214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_249
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e705410000000000800000000000000
+      internalID: 21301216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_250
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e705410000000000800000000000000
+      internalID: 21301218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_251
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e705410000000000800000000000000
+      internalID: 21301220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_252
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e705410000000000800000000000000
+      internalID: 21301222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_253
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e705410000000000800000000000000
+      internalID: 21301224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_254
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae705410000000000800000000000000
+      internalID: 21301226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DelverTiles_255
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce705410000000000800000000000000
+      internalID: 21301228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ceeafce1b3f513540b6390c02ca1b15a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DelverTiles_4: 21300726
+      DelverTiles_247: 21301212
+      DelverTiles_114: 21300946
+      DelverTiles_87: 21300892
+      DelverTiles_221: 21301160
+      DelverTiles_75: 21300868
+      DelverTiles_64: 21300846
+      DelverTiles_150: 21301018
+      DelverTiles_136: 21300990
+      DelverTiles_96: 21300910
+      DelverTiles_57: 21300832
+      DelverTiles_16: 21300750
+      DelverTiles_236: 21301190
+      DelverTiles_127: 21300972
+      DelverTiles_218: 21301154
+      DelverTiles_217: 21301152
+      DelverTiles_140: 21300998
+      DelverTiles_194: 21301106
+      DelverTiles_65: 21300848
+      DelverTiles_45: 21300808
+      DelverTiles_165: 21301048
+      DelverTiles_171: 21301060
+      DelverTiles_112: 21300942
+      DelverTiles_91: 21300900
+      DelverTiles_38: 21300794
+      DelverTiles_25: 21300768
+      DelverTiles_182: 21301082
+      DelverTiles_48: 21300814
+      DelverTiles_185: 21301088
+      DelverTiles_89: 21300896
+      DelverTiles_12: 21300742
+      DelverTiles_180: 21301078
+      DelverTiles_54: 21300826
+      DelverTiles_52: 21300822
+      DelverTiles_20: 21300758
+      DelverTiles_28: 21300774
+      DelverTiles_174: 21301066
+      DelverTiles_116: 21300950
+      DelverTiles_216: 21301150
+      DelverTiles_245: 21301208
+      DelverTiles_18: 21300754
+      DelverTiles_43: 21300804
+      DelverTiles_123: 21300964
+      DelverTiles_39: 21300796
+      DelverTiles_223: 21301164
+      DelverTiles_242: 21301202
+      DelverTiles_55: 21300828
+      DelverTiles_76: 21300870
+      DelverTiles_49: 21300816
+      DelverTiles_176: 21301070
+      DelverTiles_228: 21301174
+      DelverTiles_19: 21300756
+      DelverTiles_157: 21301032
+      DelverTiles_212: 21301142
+      DelverTiles_207: 21301132
+      DelverTiles_46: 21300810
+      DelverTiles_198: 21301114
+      DelverTiles_105: 21300928
+      DelverTiles_161: 21301040
+      DelverTiles_160: 21301038
+      DelverTiles_63: 21300844
+      DelverTiles_33: 21300784
+      DelverTiles_41: 21300800
+      DelverTiles_86: 21300890
+      DelverTiles_125: 21300968
+      DelverTiles_92: 21300902
+      DelverTiles_142: 21301002
+      DelverTiles_133: 21300984
+      DelverTiles_50: 21300818
+      DelverTiles_51: 21300820
+      DelverTiles_53: 21300824
+      DelverTiles_124: 21300966
+      DelverTiles_234: 21301186
+      DelverTiles_58: 21300834
+      DelverTiles_155: 21301028
+      DelverTiles_69: 21300856
+      DelverTiles_233: 21301184
+      DelverTiles_173: 21301064
+      DelverTiles_34: 21300786
+      DelverTiles_7: 21300732
+      DelverTiles_110: 21300938
+      DelverTiles_204: 21301126
+      DelverTiles_250: 21301218
+      DelverTiles_100: 21300918
+      DelverTiles_213: 21301144
+      DelverTiles_68: 21300854
+      DelverTiles_98: 21300914
+      DelverTiles_113: 21300944
+      DelverTiles_148: 21301014
+      DelverTiles_167: 21301052
+      DelverTiles_149: 21301016
+      DelverTiles_209: 21301136
+      DelverTiles_177: 21301072
+      DelverTiles_232: 21301182
+      DelverTiles_104: 21300926
+      DelverTiles_10: 21300738
+      DelverTiles_225: 21301168
+      DelverTiles_126: 21300970
+      DelverTiles_138: 21300994
+      DelverTiles_9: 21300736
+      DelverTiles_137: 21300992
+      DelverTiles_163: 21301044
+      DelverTiles_15: 21300748
+      DelverTiles_30: 21300778
+      DelverTiles_66: 21300850
+      DelverTiles_187: 21301092
+      DelverTiles_202: 21301122
+      DelverTiles_0: 21300718
+      DelverTiles_200: 21301118
+      DelverTiles_44: 21300806
+      DelverTiles_188: 21301094
+      DelverTiles_237: 21301192
+      DelverTiles_210: 21301138
+      DelverTiles_199: 21301116
+      DelverTiles_144: 21301006
+      DelverTiles_251: 21301220
+      DelverTiles_238: 21301194
+      DelverTiles_2: 21300722
+      DelverTiles_14: 21300746
+      DelverTiles_121: 21300960
+      DelverTiles_101: 21300920
+      DelverTiles_158: 21301034
+      DelverTiles_227: 21301172
+      DelverTiles_183: 21301084
+      DelverTiles_129: 21300976
+      DelverTiles_244: 21301206
+      DelverTiles_130: 21300978
+      DelverTiles_214: 21301146
+      DelverTiles_220: 21301158
+      DelverTiles_193: 21301104
+      DelverTiles_143: 21301004
+      DelverTiles_81: 21300880
+      DelverTiles_26: 21300770
+      DelverTiles_21: 21300760
+      DelverTiles_108: 21300934
+      DelverTiles_111: 21300940
+      DelverTiles_84: 21300886
+      DelverTiles_120: 21300958
+      DelverTiles_102: 21300922
+      DelverTiles_147: 21301012
+      DelverTiles_67: 21300852
+      DelverTiles_254: 21301226
+      DelverTiles_170: 21301058
+      DelverTiles_1: 21300720
+      DelverTiles_82: 21300882
+      DelverTiles_239: 21301196
+      DelverTiles_61: 21300840
+      DelverTiles_241: 21301200
+      DelverTiles_222: 21301162
+      DelverTiles_11: 21300740
+      DelverTiles_206: 21301130
+      DelverTiles_85: 21300888
+      DelverTiles_248: 21301214
+      DelverTiles_109: 21300936
+      DelverTiles_132: 21300982
+      DelverTiles_35: 21300788
+      DelverTiles_135: 21300988
+      DelverTiles_169: 21301056
+      DelverTiles_29: 21300776
+      DelverTiles_62: 21300842
+      DelverTiles_255: 21301228
+      DelverTiles_186: 21301090
+      DelverTiles_166: 21301050
+      DelverTiles_191: 21301100
+      DelverTiles_106: 21300930
+      DelverTiles_131: 21300980
+      DelverTiles_88: 21300894
+      DelverTiles_201: 21301120
+      DelverTiles_8: 21300734
+      DelverTiles_240: 21301198
+      DelverTiles_17: 21300752
+      DelverTiles_146: 21301010
+      DelverTiles_56: 21300830
+      DelverTiles_78: 21300874
+      DelverTiles_70: 21300858
+      DelverTiles_122: 21300962
+      DelverTiles_152: 21301022
+      DelverTiles_215: 21301148
+      DelverTiles_224: 21301166
+      DelverTiles_190: 21301098
+      DelverTiles_219: 21301156
+      DelverTiles_253: 21301224
+      DelverTiles_117: 21300952
+      DelverTiles_203: 21301124
+      DelverTiles_115: 21300948
+      DelverTiles_23: 21300764
+      DelverTiles_154: 21301026
+      DelverTiles_6: 21300730
+      DelverTiles_235: 21301188
+      DelverTiles_153: 21301024
+      DelverTiles_42: 21300802
+      DelverTiles_246: 21301210
+      DelverTiles_118: 21300954
+      DelverTiles_74: 21300866
+      DelverTiles_95: 21300908
+      DelverTiles_94: 21300906
+      DelverTiles_40: 21300798
+      DelverTiles_128: 21300974
+      DelverTiles_36: 21300790
+      DelverTiles_181: 21301080
+      DelverTiles_80: 21300878
+      DelverTiles_24: 21300766
+      DelverTiles_141: 21301000
+      DelverTiles_175: 21301068
+      DelverTiles_72: 21300862
+      DelverTiles_192: 21301102
+      DelverTiles_168: 21301054
+      DelverTiles_243: 21301204
+      DelverTiles_27: 21300772
+      DelverTiles_230: 21301178
+      DelverTiles_32: 21300782
+      DelverTiles_97: 21300912
+      DelverTiles_231: 21301180
+      DelverTiles_196: 21301110
+      DelverTiles_37: 21300792
+      DelverTiles_47: 21300812
+      DelverTiles_229: 21301176
+      DelverTiles_22: 21300762
+      DelverTiles_184: 21301086
+      DelverTiles_59: 21300836
+      DelverTiles_93: 21300904
+      DelverTiles_119: 21300956
+      DelverTiles_172: 21301062
+      DelverTiles_99: 21300916
+      DelverTiles_145: 21301008
+      DelverTiles_252: 21301222
+      DelverTiles_195: 21301108
+      DelverTiles_60: 21300838
+      DelverTiles_249: 21301216
+      DelverTiles_139: 21300996
+      DelverTiles_90: 21300898
+      DelverTiles_205: 21301128
+      DelverTiles_211: 21301140
+      DelverTiles_77: 21300872
+      DelverTiles_189: 21301096
+      DelverTiles_3: 21300724
+      DelverTiles_156: 21301030
+      DelverTiles_107: 21300932
+      DelverTiles_31: 21300780
+      DelverTiles_226: 21301170
+      DelverTiles_197: 21301112
+      DelverTiles_79: 21300876
+      DelverTiles_178: 21301074
+      DelverTiles_164: 21301046
+      DelverTiles_134: 21300986
+      DelverTiles_13: 21300744
+      DelverTiles_159: 21301036
+      DelverTiles_208: 21301134
+      DelverTiles_151: 21301020
+      DelverTiles_73: 21300864
+      DelverTiles_71: 21300860
+      DelverTiles_83: 21300884
+      DelverTiles_162: 21301042
+      DelverTiles_103: 21300924
+      DelverTiles_179: 21301076
+      DelverTiles_5: 21300728
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
