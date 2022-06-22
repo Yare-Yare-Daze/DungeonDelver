@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Dray : MonoBehaviour
+public class Dray : MonoBehaviour, IFacingMover
 {
     public enum eMode
     {
@@ -26,8 +26,9 @@ public class Dray : MonoBehaviour
     private float timeAttackDone = 0;
     private float timeAttackNext = 0;
 
-    private Rigidbody rigidbody;
+    private Rigidbody _rigidbody;
     private Animator _animator;
+    private InRoom _inRoom;
 
     private Vector3[] directions = new Vector3[] { Vector3.right, Vector3.up, Vector3.left, Vector3.down};
 
@@ -36,8 +37,9 @@ public class Dray : MonoBehaviour
     
     private void Awake()
     {
-        rigidbody = GetComponent<Rigidbody>();
+        _rigidbody = GetComponent<Rigidbody>();
         _animator = GetComponent<Animator>();
+        _inRoom = GetComponent<InRoom>();
     }
 
     private void Update()
@@ -93,6 +95,43 @@ public class Dray : MonoBehaviour
                 break;
         }
 
-        rigidbody.velocity = vel * speed;
+        _rigidbody.velocity = vel * speed;
+    }
+
+    public int GetFacing()
+    {
+        return facing;
+    }
+
+    public bool moving
+    {
+        get { return (mode == eMode.move); }
+    }
+
+    public float GetSpeed()
+    {
+        return speed;
+    }
+
+    public float gridMult
+    {
+        get { return _inRoom.gridMult; }
+    }
+
+    public Vector2 roomPos
+    {
+        get { return _inRoom.roomPos; }
+        set { _inRoom.roomPos = value; }
+    }
+
+    public Vector2 roomNum
+    {
+        get { return _inRoom.roomNum;}
+        set { _inRoom.roomNum = value; }
+    }
+
+    public Vector2 GetRoomPosOnGrid(float mult = -1)
+    {
+        return _inRoom.GetRoomPosOnGrid(mult);
     }
 }
