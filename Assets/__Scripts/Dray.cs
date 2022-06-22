@@ -5,11 +5,26 @@ using UnityEngine;
 
 public class Dray : MonoBehaviour
 {
+    public enum eMode
+    {
+        idle,
+        move,
+        attack,
+        transition
+    };
+    
     [Header("Set in Inspector")] 
     public float speed = 5;
+    public float attackDuration = 0.25f;
+    public float attackDelay = 0.5f;
 
     [Header("Set Dynamically")] 
     public int dirHeld = -1;
+    public int facing = 1;
+    public eMode mode = eMode.idle;
+
+    private float timeAttackDone = 0;
+    private float timeAttackNext = 0;
 
     private Rigidbody rigidbody;
     private Animator _animator;
@@ -32,20 +47,52 @@ public class Dray : MonoBehaviour
         {
             if (Input.GetKey(keys[i])) dirHeld = i;
         }
+
+        if (Input.GetKeyDown(KeyCode.Z) && Time.time >= timeAttackNext)
+        {
+            mode = eMode.attack;
+            timeAttackDone = Time.time + attackDuration;
+            timeAttackNext = Time.time + attackDelay;
+        }
+
+        if (Time.time >= timeAttackDone)
+        {
+            mode = eMode.idle;
+        }
+
+        if (mode != eMode.attack)
+        {
+            if (dirHeld == -1)
+            {
+                mode = eMode.idle;
+            }
+            else
+            {
+                facing = dirHeld;
+                mode = eMode.move;
+            }
+        }
         
         Vector3 vel = Vector3.zero;
-        if (dirHeld > -1) vel = directions[dirHeld];
+        switch (mode)
+        {
+            case eMode.attack:
+                _animator.CrossFade("Dray_Attack_" + facing, 0);
+                _animator.speed = 0;
+                break;
+            
+            case eMode.idle:
+                _animator.CrossFade("Dray_Walk_" + facing, 0);
+                _animator.speed = 0;
+                break;
+            
+            case eMode.move:
+                vel = directions[dirHeld];
+                _animator.CrossFade("Dray_Walk_" + facing, 0);
+                _animator.speed = 1;
+                break;
+        }
 
         rigidbody.velocity = vel * speed;
-
-        if (dirHeld == -1)
-        {
-            _animator.speed = 0;
-        }
-        else
-        {
-            _animator.CrossFade("Dray_Walk_"+dirHeld, 0);
-            _animator.speed = 1;
-        }
     }
 }
