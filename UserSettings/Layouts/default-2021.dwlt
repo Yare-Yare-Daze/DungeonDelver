@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 7414
+  controlID: 39
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 7326
+  controlID: 75
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 7394
+  controlID: 18
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -298,8 +298,8 @@ MonoBehaviour:
     y: 0
     width: 447
     height: 987
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -364,7 +364,7 @@ MonoBehaviour:
     m_SaveData: []
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -401990
+  m_LastSelectedObjectID: 24470
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -496,7 +496,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
-      displayed: 0
+      displayed: 1
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -612,9 +612,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 22.714184, y: 4.599564, z: -10.107431}
+    m_Target: {x: 29.668629, y: 5.2169724, z: -10.145695}
     speed: 2
-    m_Value: {x: 22.714184, y: 4.599564, z: -10.107431}
+    m_Value: {x: 29.668629, y: 5.2169724, z: -10.145695}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -665,9 +665,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 9.514665
+    m_Target: 10.369211
     speed: 2
-    m_Value: 9.514665
+    m_Value: 10.369211
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -935,9 +935,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e4c6feff
-      m_LastClickedID: -80156
-      m_ExpandedIDs: ce3efaffe4c6feff1efbffff
+      m_SelectedIDs: 765f0000
+      m_LastClickedID: 24438
+      m_ExpandedIDs: 2afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1001,8 +1001,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/__Scripts
+    m_Folders: []
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
@@ -1017,7 +1016,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 54690000
     m_LastClickedID: 26964
-    m_ExpandedIDs: ffffffff0000000054690000b06b0000f26b0000f46b000046850000
+    m_ExpandedIDs: 00000000d25f00004a6000004c6000004e600000506000005260000054600000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1042,21 +1041,21 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 60}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff0000000054690000ca6b0000d66b0000f06b0000f26b0000f46b000046850000
+    m_ExpandedIDs: ffffffff00000000d25f00004a6000004c6000004e600000506000005260000054600000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: TileCamera
-      m_OriginalName: TileCamera
+      m_Name: CamFollowDray
+      m_OriginalName: CamFollowDray
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 28338
+      m_UserData: 30982
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -1136,7 +1135,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 340
+  m_LastVerticalScrollValue: 114
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:

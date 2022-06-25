@@ -233,6 +233,8 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
   - component: {fileID: 519420033}
+  - component: {fileID: 519420035}
+  - component: {fileID: 519420034}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -322,6 +324,34 @@ MonoBehaviour:
   mapTiles: {fileID: 2800000, guid: 600c3190624b54fdba95619d75d56fdb, type: 3}
   mapCollisions: {fileID: 4900000, guid: 8c7dddc175b4444fa9bf2466a05b5324, type: 3}
   tilePrefab: {fileID: 8674642885615642124, guid: 41eeea1ca2fee7b4d9f47a1025cd0ab3, type: 3}
+--- !u!114 &519420034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef0d7aef9af246d4cb5b473ec4f5a31f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  keepInRoom: 1
+  gridMult: 1
+--- !u!114 &519420035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8802f9c49050a7b48b36bf7bbf9751e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  drayInRoom: {fileID: 1671773266}
+  transTime: 0.5
 --- !u!1 &1343310976
 GameObject:
   m_ObjectHideFlags: 0
@@ -337,6 +367,7 @@ GameObject:
   - component: {fileID: 1343310981}
   - component: {fileID: 1343310982}
   - component: {fileID: 1343310983}
+  - component: {fileID: 1343310984}
   m_Layer: 0
   m_Name: Skeletos
   m_TagString: Untagged
@@ -492,7 +523,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   keepInRoom: 1
-  gridMult: 1
+  gridMult: 0.5
+--- !u!114 &1343310984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1343310976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35166a726a9888042a969dcd0490c6ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1405097481
 GameObject:
   m_ObjectHideFlags: 0
@@ -755,6 +798,7 @@ MonoBehaviour:
   speed: 3
   attackDuration: 0.25
   attackDelay: 0.5
+  transitionDelay: 0.5
   dirHeld: -1
   facing: 1
   mode: 0
@@ -784,7 +828,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   keepInRoom: 0
-  gridMult: 1
+  gridMult: 0.5
 --- !u!114 &1671773267
 MonoBehaviour:
   m_ObjectHideFlags: 0
