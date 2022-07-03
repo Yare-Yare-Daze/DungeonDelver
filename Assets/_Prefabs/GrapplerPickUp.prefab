@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4000010953457414}
   - component: {fileID: 212000013529916496}
   - component: {fileID: 65000012596093920}
+  - component: {fileID: 937697246}
   m_Layer: 0
   m_Name: GrapplerPickUp
   m_TagString: Untagged
@@ -98,3 +99,16 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 0.5, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &937697246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000011084335560}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b89902cf5a7154ba6732096d71d675, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemType: 2
